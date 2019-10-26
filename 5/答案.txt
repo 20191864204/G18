@@ -1,5 +1,0 @@
-先输入数值，分别赋值给a,b，x,y,c1,c2
-printf("请输入分别输入a，b,c1,c2,x,y,");
-然后写出scanf函数，
-scanf("%d%d%c%c%f%f",&a,&b,&c1,&c2,&x,&y,)
-最后printf("a=%5d,b=%5d,c1='%c',c2='%c',x=%f,y=%f,",a,b,c1,c2,x,y,)
