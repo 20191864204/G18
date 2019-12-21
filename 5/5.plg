@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 5 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\user\AppData\Local\Temp\RSP5FB3.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/5.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"E:\新建文件夹\5\5.cpp"
+]
+Creating command line "cl.exe @C:\Users\user\AppData\Local\Temp\RSP5FB3.tmp" 
+<h3>Output Window</h3>
+Compiling...
+5.cpp
+e:\新建文件夹\5\5.cpp(274) : fatal error C1010: unexpected end of file while looking for precompiled header directive
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+5.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

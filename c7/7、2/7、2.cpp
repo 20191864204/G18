@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include "math.h"
 
-int v1();
+void v1();
 int v2(double a, double b);
 int v3(double a, double b, double t);
 
@@ -28,10 +28,10 @@ int main()
 }
 
 
-int v1()  //t<0
+void v1()  //t<0
 {
 	printf("该方程无解\n");
-	return 0;
+	
 }
 
 int v2(double a, double b)  //t=0

@@ -29,4 +29,5 @@ void transpo(int x[3][3])
         }
         printf("\n");
     }
+    
 }

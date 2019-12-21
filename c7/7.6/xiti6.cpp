@@ -10,7 +10,7 @@ void lianjie(char a[],char b[])
 	printf("连接后:\n");
 	puts(c);
 }
-main()
+ int main()
 {
 	char a[10],b[10];
 	printf("输入:\n");
